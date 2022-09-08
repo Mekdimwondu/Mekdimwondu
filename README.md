@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mekdim</h1>
-<h3 align="center">I frontend developer from Ethiopia</h3>
+<h3 align="center">I am a frontend developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mekdimwondu&label=Profile%20views&color=0e75b6&style=flat" alt="mekdimwondu" /> </p>
 
