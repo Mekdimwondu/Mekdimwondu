@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mekdimwondu&label=Profile%20views&color=0e75b6&style=flat" alt="mekdimwondu" /> </p>
 
-- 🌱 I’m currently learning **PostgreSQL,Aws**
+- 🌱 I’m currently learning **PostgreSQL,AWS**
 
 - 📫 How to reach me **mkdimwondu101@gmail.com**
 
