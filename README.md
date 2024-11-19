@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mekdim</h1>
-<h3 align="center">I am a frontend developer from Ethiopia</h3>
+<h3 align="center">I am a full stack developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mekdimwondu&label=Profile%20views&color=0e75b6&style=flat" alt="mekdimwondu" /> </p>
 
-- 🌱 I’m currently learning **posgresql,aws**
+- 🌱 I’m currently learning **PostgreSQL,Aws**
 
 - 📫 How to reach me **mkdimwondu101@gmail.com**
 
